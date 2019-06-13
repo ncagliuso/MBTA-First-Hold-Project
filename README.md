@@ -1,12 +1,12 @@
 # MBTA-First-Hold-Project
 
-##Purpose
+## Purpose
 
 This project looks at Procurement and Logistics Department efficiency by measuring various metrics related to "hold time," which is the time difference between a requisition's approval and the first time that requisiton is placed on hold. Data for this project covers the first three quarters of the 2019 MBTA Fiscal Year.
 
-##Package Requirements
+## Package Requirements
 
-####Software
+#### Software
 
 * `R 3.5.1`
 
@@ -21,7 +21,7 @@ This project looks at Procurement and Logistics Department efficiency by measuri
 * `reshape2` for data transformation (i.e. tables)
 * `ggplot2` for data visualization
 
-###Data Requirements
+### Data Requirements
 
 #### `SLT_DANZ.xlsx`
 
