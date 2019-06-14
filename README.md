@@ -44,7 +44,8 @@ This excel file should contain the following columns:
 
 This project will produce two table and two boxplots. The tables - one by Buyer and one by month, show the 0, 25, 50, 75, and 100th percentile hold time as well as hold requisition count and mean hold time. One boxplot is by Buyer and the other is by month as well.
 
-
+![](https://github.com/ncagliuso/MBTA-First-Hold-Project/blob/master/Buyer%20Hold%20Time.jpeg)
+![](https://github.com/ncagliuso/MBTA-First-Hold-Project/blob/master/Month%20Hold%20Time.jpeg)
 
 
 
