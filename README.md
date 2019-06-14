@@ -37,7 +37,7 @@ This excel file should contain the following columns:
 | Updated_By                   | Unsure/not used anyway                    |
 | Hold_Status                  | Shows if hold has been accepted or not    |
 | Comment                      | Info as to why that requisition is on hold|
-| Line                         | Requisition line; always 1 in this case   |
+| Line                         | Represents 1st instance of a hold for req |
 | DateTime                     | Timestamp of requisition being put on hold|
 
 ### Output File(s)
